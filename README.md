@@ -12,7 +12,7 @@ Im happy with:
   Set timeout find usefull here.
   
   
-  Based on 'code with ania kubow,
+  Based on 'code with ania kubow'
   
   
 
